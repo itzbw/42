@@ -1,4 +1,5 @@
-# 42
+# 42 <sup>born2code</sup> 
+
 
 | PROJECTS | #MARKS   | #BADGES  |
 | :---:   | :---: | :---: |
@@ -22,6 +23,11 @@
 | ft_irc |  🚧   |    |
 | *Exam Rank 05* | 🚧 |  N/A  |
 | ft_transcendence|  🚧   |    |
+
+---
+
+| ACHIEVEMENTS| #Remarks | #BADGES  |
+| :---:   | :---: | :---: |
 
 > [!WARNING]
 > DON'T PANIC
