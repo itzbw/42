@@ -26,8 +26,11 @@
 
 ---
 
-| ACHIEVEMENTS| #Remarks | #BADGES  |
+| ACHIEVEMENTS| #REMARKS | #BADGES  |
 | :---:   | :---: | :---: |
+| Silver| Codingame Spring Challenge 2022    |    |
+| Bronze|   Codingame Fall Challenge 2022   |    |
+| Pixel Placer|  Pixelwar Reddit 2023   |    |
 
 > [!WARNING]
 > DON'T PANIC
