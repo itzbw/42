@@ -12,7 +12,7 @@
 | minitalk | 125  ☑️  |  ![ ](https://github.com/itzbw/42/blob/main/assets/badges/minitalkm.png)   |
 | *Exam Rank 03* | 100  ☑️|  N/A  |
 | minishell| 101  ☑️  |  ![ ](https://github.com/itzbw/42/blob/main/assets/badges/minishellm.png)   |
-| philosopher| 100   ☑️ |  ![ ](https://github.com/itzbw/42/blob/main/assets/badges/philosophere.png)   |
+| philosopher| 100   ☑️ |  ![ ](https://github.com/itzbw/42/blob/main/assets/badges/philosopherse.png)   |
 | *Exam Rank 04* | 100  ☑️|  N/A  |
 | NetPractice| 100  ☑️  |  ![ ](https://github.com/itzbw/42/blob/main/assets/badges/netpracticee.png)   |
 | cud3d| 110   ☑️ |  ![ ](https://github.com/itzbw/42/blob/main/assets/badges/cub3dm.png)   |
