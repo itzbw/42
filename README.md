@@ -3,7 +3,7 @@ born2code
 
 | PROJECTS | #MARKS   | #BADGES  |
 | :---:   | :---: | :---: |
-| Libft | 125 ☑️ | |
+| Libft | 125 ☑️ | ![ ](https://github.com/itzbw/42/blob/main/assets/badges/libftm.png) |
 | ft_printf |  100  ☑️  |    |
 | get_next_line | 125  ☑️  |    |
 | Born2beroot | 100  ☑️  |    |
