@@ -1,11 +1,10 @@
 # 42
-born2code
 
 | PROJECTS | #MARKS   | #BADGES  |
 | :---:   | :---: | :---: |
 | Libft | 125 ☑️ | ![ ](https://github.com/itzbw/42/blob/main/assets/badges/libftm.png) |
-| ft_printf |  100  ☑️  |    |
-| get_next_line | 125  ☑️  |    |
+| ft_printf |  100  ☑️  |  ![ ](https://github.com/itzbw/42/blob/main/assets/badges/ft_printfe.png)   |
+| get_next_line | 125  ☑️  |  ![ ](https://github.com/itzbw/42/blob/main/assets/badges/get_next_linem.png)   |
 | Born2beroot | 100  ☑️  |    |
 | *Exam Rank 02* | 100  ☑️|  N/A  |
 | push_swap| 84  ☑️  |    |
@@ -23,6 +22,9 @@ born2code
 | ft_irc |  🚧   |    |
 | *Exam Rank 05* | 🚧 |  N/A  |
 | ft_transcendence|  🚧   |    |
+
+> [!WARNING]
+> DON'T PANIC
 
 
  [^1]
