@@ -19,10 +19,11 @@
 | cud3d| 110   ☑️ |  ![ ](https://github.com/itzbw/42/blob/main/assets/badges/cub3dm.png)   |
 | CPP 00 - 04| 80  ☑️  |  ![ ](https://github.com/itzbw/42/blob/main/assets/badges/cppe.png)   |
 | CPP 05 - 09| 100  ☑️  |  ![ ](https://github.com/itzbw/42/blob/main/assets/badges/cppm.png)   |
-| Inception |  🚧   |    |
-| ft_irc |  🚧   |    |
-| *Exam Rank 05* | 🚧 |  N/A  |
+| Inception |  100 ☑️  |  ![ ](https://github.com/itzbw/42/blob/main/assets/badges/cppm.png)    |
+| ft_irc |  100 ☑️   |  ![ ](https://github.com/itzbw/42/blob/main/assets/badges/inceptione.png)   |
+| *Exam Rank 05* | 100 ☑️|  N/A  |
 | ft_transcendence|  🚧   |    |
+| *Exam Rank 06* | 🚧 |  N/A  |
 
 ---
 
