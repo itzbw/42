@@ -27,10 +27,11 @@
 
 ---
 
-| ACHIEVEMENTS| #REMARKS | #BADGES  |
+| ACHIEVEMENTS| #REMARKS | #TITLE  |
 | :---:   | :---: | :---: |
-| Silver| Codingame Spring Challenge 2022    |    |
-| Bronze|   Codingame Fall Challenge 2022   |    |
+| Gold 🥇 | Codingame Fall Challenge 2023    |  Master of the golden abyss  |
+| Bronze 🥉|   Codingame Fall Challenge 2022   |  Bronze Scrapper  |
+| Silver 🥈| Codingame Spring Challenge 2022    |  Silver Surfer  |
 | Pixel Placer|  Pixelwar Reddit 2023   |    |
 
 > [!WARNING]
