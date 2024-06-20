@@ -22,8 +22,8 @@
 | Inception |  100 ☑️  |  ![ ](https://github.com/itzbw/42/blob/main/assets/badges/inceptione.png)    |
 | ft_irc |  100 ☑️   |  ![ ](https://github.com/itzbw/42/blob/main/assets/badges/ft_irce.png)   |
 | *Exam Rank 05* | 100 ☑️|  N/A  |
+| *Exam Rank 06* | 100 |  N/A  |
 | ft_transcendence|  🚧   |    |
-| *Exam Rank 06* | 🚧 |  N/A  |
 
 ---
 
